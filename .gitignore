@@ -1,0 +1,30 @@
+# IDEA
+.idea/
+**/*.iml
+
+.deployment
+dist
+
+# AWS
+aws.props
+
+# Docker
+.docker/
+
+# VSCode
+.settings
+.vscode
+.classpath
+target
+.project
+jsconfig.json
+
+# Front end
+node_modules
+yarn-error.log
+build/
+# use `yarn.lock` instead
+package-lock.json
+
+# Mac
+.DS_Store
